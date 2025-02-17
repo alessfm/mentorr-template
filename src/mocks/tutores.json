@@ -8,7 +8,9 @@
             "tecnologia",
             "ux/ui design"
         ],
-        "photo": "https://placehold.co/400"
+        "photo": "https://placehold.co/400",
+        "descricao": "Sou John P. Santos, cientista de dados sênior na Amazon com mais de oito anos de experiência em machine learning e análise. Ao longo da trajetória, tenho dedicado a transformar dados em estratégias que impactam diretamente a experiência...",
+        "valor": 600
     },
     {
         "id": 2,
@@ -20,7 +22,9 @@
             "CSS avançado",
             "JavaScript"
         ],
-        "photo": "https://placehold.co/400"
+        "photo": "https://placehold.co/400",
+        "descricao": "Sou John P. Santos, cientista de dados sênior na Amazon com mais de oito anos de experiência...",
+        "valor": 500
     },
     {
         "id": 3,
@@ -32,7 +36,9 @@
             "Banco de Dados",
             "DevOps"
         ],
-        "photo": "https://placehold.co/400"
+        "photo": "https://placehold.co/400",
+        "descricao": "Ao longo da trajetória, tenho dedicado a transformar dados em estratégias que impactam diretamente a experiência...",
+        "valor": 400
     },
     {
         "id": 4,
@@ -44,7 +50,9 @@
             "UI responsiva",
             "Firebase"
         ],
-        "photo": "https://placehold.co/400"
+        "photo": "https://placehold.co/400",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "valor": 300
     },
     {
         "id": 5,
@@ -56,6 +64,8 @@
             "Machine Learning",
             "SQL"
         ],
-        "photo": "https://placehold.co/400"
+        "photo": "https://placehold.co/400",
+        "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "valor": 200
     }
 ]

@@ -1,9 +1,11 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import Home from './pages/home.tsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+// import Home from './pages/home.tsx';
+import Busca from "./pages/busca.tsx";
 
-createRoot(document.getElementById('root')!).render(
+createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <Home />
-  </StrictMode>,
-)
+    {/* <Home /> */}
+    <Busca />
+  </StrictMode>
+);

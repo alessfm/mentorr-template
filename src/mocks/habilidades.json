@@ -1,0 +1,22 @@
+[
+    { 
+        "id": 1, 
+        "nome": "Produto" 
+    },
+    { 
+        "id": 2, 
+        "nome": "UX/UI" 
+    },
+    { 
+        "id": 3, 
+        "nome": "Web" 
+    },
+    { 
+        "id": 4, 
+        "nome": "Startup" 
+    },
+    { 
+        "id": 5, 
+        "nome": "Finanças" 
+    }
+]

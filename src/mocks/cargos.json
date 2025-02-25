@@ -1,0 +1,22 @@
+[
+    { 
+        "id": 1, 
+        "nome": "CEO" 
+    },
+    { 
+        "id": 2, 
+        "nome": "CTO" 
+    },
+    { 
+        "id": 3, 
+        "nome": "Desenvolvedor" 
+    },
+    { 
+        "id": 4, 
+        "nome": "Engenheiro" 
+    },
+    { 
+        "id": 5, 
+        "nome": "Professor" 
+    }
+]
